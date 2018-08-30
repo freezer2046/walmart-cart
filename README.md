@@ -1,22 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Download the code and use: <br>
-npm install
-to install the necessary package,
-then use:
-npm start 
-to run the project on server side.
+npm install<br>
+to install the necessary package,<br>
+then use:<br>
+npm start <br>
+to run the project on server side.<br>
 
-All code is appropriate comment with interpretation.
+All code is appropriate comment with interpretation.<br>
 
-function:
+function:<br>
 
-i.(toggle) click the expander:'See item Details' to open and close the details of orders.
-ii.(toggle) click the expander:'Hide promo code' to open and close the promo-code-enter part.
-iii.promo code area: By enter 'DISCOUNT' coupon in the input box and click the 'Apply' button, the price
-will automaticaly receive 10% decrease.
-iv. The main container is build with responsive design, easily change the browser width and height would
-see the difference.
+i.(toggle) click the expander:'See item Details' to open and close the details of orders.<br>
+ii.(toggle) click the expander:'Hide promo code' to open and close the promo-code-enter part.<br>
+iii.promo code area: By enter 'DISCOUNT' coupon in the input box and click the 'Apply' button, the price<br>
+will automaticaly receive 10% decrease.<br>
+iv. The main container is build with responsive design, easily change the browser width and height would<br>
+see the difference.<br>
 
 
 
