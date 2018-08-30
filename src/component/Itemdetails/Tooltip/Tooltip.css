@@ -1,0 +1,13 @@
+.tooltipx {
+    position:absolute;
+    left:0px;
+    top:30px;
+    width:250px;
+    padding:20px;
+    z-index: 50;
+    border:1px solid grey;
+    border-color: grey;
+    box-shadow:0 2px 2px lightgrey;
+    font-size:14px;
+    background-color:rgb(255, 255, 255);
+  }

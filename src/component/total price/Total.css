@@ -1,0 +1,11 @@
+.tsleft {
+    display: inline-block;
+    text-align: left;
+    font-weight:bold;
+    font-size:25px;
+}
+.tsright {
+    font-weight: bold;
+    float: right;
+    font-size:30px;
+}

@@ -1,0 +1,32 @@
+.promo {
+    margin:auto;
+    position: relative;
+}
+
+.promoleft{
+    position: absolute;
+float: left;
+}
+
+.promoright-button{
+    margin:auto;
+float:right;
+}
+
+.discription {
+    color:gray;
+}
+
+.P-button {
+    cursor :pointer;
+}
+
+.P-button:hover {
+    cursor:pointer;
+    outline: 1px dotted gray
+}
+
+#plus {
+    font-size:20px;
+}
+

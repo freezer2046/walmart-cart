@@ -1,0 +1,11 @@
+.left {
+    display: inline-block;
+    text-align: left;
+    width: 130px;
+    word-break: break-all;
+}
+
+.right {
+    font-weight: bold;
+    float: right;
+}

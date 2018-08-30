@@ -1,0 +1,20 @@
+.Tooltip {
+    display:inline-block;
+    padding:3px;
+    font-size: 1rem
+}
+.savingprice {
+    font-weight:bold;
+    color:red;
+    float:right;
+    text-align: center
+}
+
+.saving{
+    position: relative;
+    cursor:pointer;
+}
+
+.saving:hover{
+    outline:1px dotted gray;
+}

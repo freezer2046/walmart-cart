@@ -1,0 +1,24 @@
+/***
+* @para Mainly CSS code 
+*/
+
+
+
+
+
+.container {          
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  padding:30px;
+  border-style: groove;
+  box-shadow: 0 6px 10px lightgrey;
+  width:50vw;
+  max-width: 360px;
+  min-width: 150px;
+  padding:30px;
+  margin:10vh auto;
+  height:50vh;
+  min-height: 120px;    
+  overflow:auto;
+}
